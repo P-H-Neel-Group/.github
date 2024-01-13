@@ -23,6 +23,13 @@
 ### 4. Implement Your Changes
 - Make your changes in the newly created branch. Be sure to stick to the coding standards and guidelines of the project.
 - Once changes are complete, commit them to your branch.
+  ```
+  git fetch origin
+  git pull origin main
+  git commit -m "COMMIT MESSAGE"
+  git push
+  ```
+- If there are conflicts, always opt for merge rather than rebase.  It if preferred conflict resolution is done inside a text-editor.
 
 ### 5. Open a Pull Request (PR)
 - Push your branch to the remote repository.
