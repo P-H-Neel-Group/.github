@@ -8,9 +8,10 @@
 - Clearly describe the feature, bug fix, or improvement you propose.
 - Once done, submit the issue.
 
-### 2. Assign the Issue to Yourself
+### 2. Update the Issue
 - After creating the issue, assign it to yourself to let others know you're working on it.
-- You can do this by clicking on the **Assignees** section on the right-hand side and selecting your username.
+  You can do this by clicking on the **Assignees** section on the right-hand side and selecting your username.
+- If applicable, apply a tag, iteration, etc.
 
 ### 3. Open a Branch from the Issue
 - Create a new branch in your local repository. The branch name should be descriptive and related to the issue.
