@@ -1,7 +1,5 @@
 # Contributing to P&H Neel Group Source Code
 
---
-
 ## Step-by-Step Contribution Guide
 
 ### 1. Open an Issue
